@@ -1,0 +1,26 @@
+TO LEARN:
+
+HTML
+CSS
+JS
+
+TRELLO 
+GIT / GITHUB
+
+
+#id {
+
+}
+
+.class {
+
+}
+
+use a container to keep content centered in the screen
+and avoid having to turn your head to read
+
+pseudo selector is to hover "a" tags and before/after attributes
+
+file structure
+
+To start new project >file explorer>create new folder>open visual studio>select folder>create new file inside folder with html and style css extentions
